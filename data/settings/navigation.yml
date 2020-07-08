@@ -3,5 +3,5 @@ nav_items:
     path: /
   - label: Services
     path: /products/
-  - label: QNA
+  - label: Queries
     path: /news/
